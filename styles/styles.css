@@ -7156,9 +7156,15 @@ a.text-dark:hover, a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6; } }
 
-body {
-  backround-color: #fff; }
+p {
+  color: #342E37; }
 
 h1 {
   font-weight: bold;
-  color: #eeeeee; }
+  color: #0496FF; }
+
+body {
+  backround-color: #fff; }
+
+.container-banner {
+  background-color: #342E37; }
